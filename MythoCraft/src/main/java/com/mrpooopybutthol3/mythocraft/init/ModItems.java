@@ -19,6 +19,4 @@ public class ModItems
 	public static final Item SILVER_INGOT = new ItemBase("silver_ingot");
 	public static final Item METEORIC_IRON_INGOT = new ItemBase("meteoric_iron_ingot");
 	public static final Item ADAMANT = new ItemBase("adamant"); 
-	public static final Item RUBY = new ItemBase("ruby");
-	
 }
